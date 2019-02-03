@@ -1,4 +1,4 @@
-# -- coding: UTF-8 -- 
+# -- coding: UTF-8 --
 import scrapy
 from scrapy.linkextractors import LinkExtractor ##配合Rule进行URL规则匹配
 from scrapyDemo.items import ScrapydemoItem,ScrapyProxyItem
