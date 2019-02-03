@@ -1,0 +1,17 @@
+Date: Sat, 08 Dec 2018 02:15:52 GMT
+Content-Type: text/html; charset=utf-8
+Server: Tengine
+X-Frame-Options: ALLOW-FROM http://dig.chouti.com http://k.21cn.com/
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jianshu.com *.jianshu.io api.geetest.com static.geetest.com dn-staticdown.qbox.me zz.bdstatic.com *.google-analytics.com hm.baidu.com push.zhanzhang.baidu.com res.wx.qq.com qzonestyle.gtimg.cn as.alipayobjects.com nbrecsys.4paradigm.com shared.ydstatic.com gorgon.youdao.com ;style-src 'self' 'unsafe-inline' *.jianshu.com *.jianshu.io api.geetest.com static.geetest.com shared.ydstatic.com ;frame-ancestors 'self' dig.chouti.com k.21cn.com ;
+Etag: W/"88c1750fd6e948cdc6702abc5328987d"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: signin_redirect=https%3A%2F%2Fwww.jianshu.com%2Fp%2F6b0502d375a4%3Futm_campaign%3Dmaleskine%26utm_content%3Dnote%26utm_medium%3Dseo_notes%26utm_source%3Drecommendation; path=/
+Set-Cookie: locale=zh-CN; path=/
+Set-Cookie: _m7e_session=c1a06f9a13740a18c801e40ebea9b7ba; path=/; expires=Sat, 08 Dec 2018 08:15:52 -0000; secure; HttpOnly
+X-Request-Id: 6eaa7433-8732-40ca-a676-5e9f08adc285
+X-Runtime: 0.230084
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Encoding: gzip
+X-Via: 1.1 PSzjtzsx2yd188:2 (Cdn Cache Server V2.0), 1.1 VMtwzhdxbs141:3 (Cdn Cache Server V2.0)

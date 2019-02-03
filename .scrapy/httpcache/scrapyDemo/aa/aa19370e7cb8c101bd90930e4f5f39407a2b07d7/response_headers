@@ -1,0 +1,12 @@
+Content-Type: text/html; charset=utf-8
+Location: https://www.zhihu.com/signup?next=%2F
+X-Backend-Server: heifetz.heifetz.heifetz--574-7c373537-2223817264-gk4cv:574-7c373537---10.67.172.85:3000[10.67.172.85:3000]
+Server: ZWS
+Vary: Accept-Encoding
+Expires: Thu, 13 Dec 2018 05:08:55 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Thu, 13 Dec 2018 05:08:55 GMT
+Set-Cookie: tgw_l7_route=4902c7c12bebebe28366186aba4ffcde; Expires=Thu, 13-Dec-2018 05:23:55 GMT; Path=/
+Set-Cookie: _zap=213161eb-7363-4646-a1ea-237c571a01ac; path=/; expires=Sat, 12 Dec 2020 05:08:55 GMT; domain=.zhihu.com
+Set-Cookie: _xsrf=oxnA8JXrAbZBIVMPb8kkcWQjK7V7J4TX; path=/; domain=zhihu.com; expires=Mon, 31-May-21 05:08:55 GMT

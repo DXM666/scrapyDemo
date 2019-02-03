@@ -1,0 +1,41 @@
+
+#限制的搜索引擎的User-Agent代码，*表示所有##############
+User-agent: *
+
+#限制不能搜索的目录，Disallow: 为空时开放所有目录######
+Allow: /admin/blogmove/
+
+Disallow: /admin/
+Disallow: /include/
+Disallow: /html/
+Disallow: /queue/
+Disallow: /config/
+
+#开放搜索的目录有####################################
+#	/
+#	/advice/
+#	/help/
+#	/lm/
+#	/main/
+#	/myblog/
+
+#搜索引擎User-Agent代码对照表########################
+#	搜索引擎				User-Agent代码
+#	AltaVista				Scooter
+#	Infoseek				Infoseek
+#	Hotbot					Slurp
+#	AOL Search				Slurp
+#	Excite					ArchitextSpider
+#	Google					Googlebot
+#	Goto					Slurp
+#	Lycos					Lycos
+#	MSN 					MSNBOT
+#	Netscape				Googlebot
+#	NorthernLight			Gulliver
+#	WebCrawler				ArchitextSpider
+#	Iwon					Slurp
+#	Fast					Fast
+#	DirectHit				Grabber
+#	Yahoo Web Pages			Googlebot
+#	Looksmart Web Pages		Slurp
+#	Baiduspider				Baidu

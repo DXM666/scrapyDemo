@@ -1,0 +1,8 @@
+Via: 1.1 S7TMG13
+Proxy-Authenticate: Negotiate
+Proxy-Authenticate: Kerberos
+Proxy-Authenticate: NTLM
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html
+Date: Tue, 11 Dec 2018 01:49:22 GMT

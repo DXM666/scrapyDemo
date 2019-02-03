@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+ 
+<title>Error Message</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+<style>
+body {
+	
+	background:#e5eaf5 url(/Wbo-46DEAD80-99CC-4FB1-AC53-76119183FE3B/bg.gif) top left repeat-x ;
+	margin:0px 0px 0px 0px;
+	font-family:Arial, Helvetica, sans-serif;
+	min-width:1000px;
+	font-size:12px;
+	color:#000000;
+	direction:ltr;
+	}
+img {border:none}
+
+
+	.main {
+		width:100%;
+		background:url(/Wbo-46DEAD80-99CC-4FB1-AC53-76119183FE3B/topright.gif) top right no-repeat;
+		min-width:1000px;
+		min-height:400px;
+		margin-left:auto;
+		margin-right:auto;
+		text-align:left;
+	}
+	
+	.logo {float:left;  height:103px; }
+	.sidetext {float:right; width:182px; height:52px; background:url(/Wbo-46DEAD80-99CC-4FB1-AC53-76119183FE3B/sidetext.png) top left; border:1px solid #2a2e31; margin-right:20px; margin-top:20px; padding:4px; }
+	.sidetextNone {visibility:hidden; }
+	
+	.whiteline {float:left; clear:both; font-size:20px; margin-left:47px; margin-top:17px; color:#ffffff; white-space:nowrap; }
+	.bold {font-weight:bold;}
+	
+	.maintext {float:left; margin-top:20px; clear:both; color:#000; margin-left:47px;}
+	
+	.color1 {color:#677183;}
+	
+	ul {margin-top:0; padding-left:15px; padding-top:5px; padding-bottom:5px;}
+	
+	ul li {list-style-image:url(/Wbo-46DEAD80-99CC-4FB1-AC53-76119183FE3B/bullet.gif)}
+	A {
+    FONT-WEIGHT: bold; COLOR: #005a80;
+}
+A:hover {
+    FONT-WEIGHT: bold;COLOR: #0d3372;
+}
+</style>
+  
+</head>
+<body>
+	<div class="main">
+        <div class="logo"><img src="/Wbo-46DEAD80-99CC-4FB1-AC53-76119183FE3B/logo.png" alt="ForeFront" /></div>
+        <div class="whiteline"><td id=L_10060_2><span class="bold">Network Access Message:</span> The page cannot be displayed </td></div>
+    <div class="maintext">
+    <td id=L_10060_3><span class="bold color1">Explanation:</span> The request timed out before the page could be retrieved. </td><br />
+<br />
+
+<td id=L_10060_5><span class="bold color1">Try the following:</span></td><br />
+
+<ul>
+<li><td id=L_10060_6><span class="bold">Refresh page:</span> Search for the page again by clicking the Refresh button. The timeout may have occurred due to Internet congestion.  </td></li>
+
+<li><td id=L_10060_7><span class="bold">Check spelling:</span> Check that you typed the Web page address correctly. The address may have been mistyped.</td></li>
+<li><td id=L_10060_8><span class="bold">Contact website:</span> You may want to contact the website administrator to make sure the Web page still exists. You can do this by using the e-mail address or phone number listed on the website home page.  </td></li>
+</ul><br />
+
+<td id=L_10060_9><span>If you are still not able to view the requested page, try contacting your administrator or Helpdesk.</span></td> <br />
+
+<br />
+<td id=L_10060_10><span class="bold color1">Technical Information (for support personnel)</span></td><br />
+<ul>
+
+<li><td id=L_10060_11><span class="bold">Error Code 10060:</span> Connection timeout</td></li>
+<li><td id=L_10060_12><span class="bold">Background:</span> The gateway could not receive a timely response from the website you are trying to access. This might indicate that the network is congested, or that the website is experiencing technical difficulties.</td></li>
+<li><td id=L_10060_13><span class="bold">Date:</span></td> 12/5/2018 3:25:40 AM [GMT]</li>
+<li><td id=L_10060_14><span class="bold">Server:</span></td> ST01TMG05.buyabs.corp </li>
+<li><td id=L_10060_15><span class="bold">Source:</span> Firewall </td></li>
+</ul>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,15 @@
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Content-Security-Policy: default-src * blob:; img-src * data: blob:; connect-src * wss: blob:; frame-src 'self' *.zhihu.com weixin: *.vzuu.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 zhihujs: captcha.guard.qcloud.com; script-src 'self' blob: *.zhihu.com res.wx.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com i.hao61.net 'nonce-49250bb2-32c6-42b7-b73c-b3bd6cb9b87a'; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com captcha.gtimg.com
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+Surrogate-Control: no-store
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+X-Backend-Server: heifetz.heifetz.heifetz--574-7c373537-2223817264-2csnr:574-7c373537---10.69.219.25:3000[10.69.219.25:3000]
+Content-Encoding: gzip
+Server: ZWS
+Expires: Thu, 13 Dec 2018 05:08:56 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Thu, 13 Dec 2018 05:08:56 GMT

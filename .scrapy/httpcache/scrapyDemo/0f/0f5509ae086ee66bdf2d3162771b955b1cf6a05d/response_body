@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- generator="FEEDCREATOR_VERSION" -->
+<rss version="2.0" xmlns:sns="http://blog.sina.com.cn/sns">
+    <channel>
+        <title>千杉一月</title>
+        <description></description>
+        <link>http://blog.sina.com.cn/weiweihappy321</link>
+        <lastBuildDate>Sun, 09 Apr 2017 23:36:19 +0800</lastBuildDate>
+        <generator>FEEDCREATOR_VERSION</generator>
+        <language>zh-cn</language>
+        <copyright>Copyright 1996 - 2009 SINA Inc. All Rights Reserved.</copyright>
+        <pubDate>Sun, 18 Nov 2018 15:10:32 +0800</pubDate>
+        <item>
+            <title>精通Python网络爬虫-新书介绍</title>
+            <link>http://blog.sina.com.cn/s/blog_6050805d0102wr72.html</link>
+            <description><![CDATA[&#8203;&#8203;
+<p><b>书籍名称：</B>精通Python网络爬虫</P>
+<p><b>书籍定位：</B>Python网络爬虫初学者</P>
+<p><img SRC="http://wx1.sinaimg.cn/large/6050805dly1feguogg1k1j20ri19iaub.jpg" /></P>
+<p><b>书籍简介：</B></P>
+<p>&#8203;　本书从技术、工具与实战3个维度讲解了Python网络爬虫：<br />
+　技术维度：详细讲解了Python网络爬虫实现的核心技术，包括网络爬虫的工作原理、如何用urllib库编写网络爬虫、爬虫的异常处理、正则表达式、爬虫中Cookie的使用、爬虫的浏览器伪装技术、定向爬取技术、反爬虫技术，以及如何自己动手编写网络爬虫；<br />
+
+　工具维度：以流行的Python网络爬虫框架Scrapy为对象，详细讲解了Scrapy的功能使用、高级技巧、架构设计、实现原理，以及如何通过Scrapy来更便捷、高效地编写网络爬虫；<br />
+
+　实战维度：以实战为导向，是本书的主旨，除了完全通过手动编程实现网络爬虫和通过Scrapy框架实现网络爬虫的实战案例以外，本书还有博客爬取、图片爬取、模拟登录等多个综合性的网络爬虫实践案例。<br />
+
+　作者在Python领域有非常深厚的积累，不仅精通Python网络爬虫，在Python机器学习、Python数据分析与挖掘、Python
+Web开发等多个领域都有丰富的实战经验。</P>
+<p><b>作者简介：</B></P>
+<p>
+韦玮，资深网络爬虫技术专家、大数据专家和软件开发工程师，从事大型软件开发与技术服务多年，现任重庆韬翔网络科技有限公司创始人兼CEO，国家专利发明人。<br />
+
+精通Python技术，在Python网络爬虫、Python机器学习、Python数据分析与挖掘、Python
+Web开发等多个领域都有丰富的实战经验。<br />
+CSDN、51CTO、天善智能等科技类社区和媒体的特邀专家和讲师，输出了大量的高质量课程和文章，深受用户喜爱。</P>
+<p><b>书籍目录：</B></P>
+<p>前　言<br />
+第一篇　理论基础篇<br />
+第1章　什么是网络爬虫 3<br />
+1.1　初识网络爬虫 3<br />
+1.2　为什么要学网络爬虫 4<br />
+1.3　网络爬虫的组成 5<br />
+1.4　网络爬虫的类型 6<br />
+1.5　爬虫扩展——聚焦爬虫 7<br />
+1.6　小结 8<br />
+第2章　网络爬虫技能总览 9<br />
+2.1　网络爬虫技能总览图 9<br />
+2.2　搜索引擎核心 10<br />
+2.3　用户爬虫的那些事儿 11<br />
+2.4　小结 12<br />
+第二篇　核心技术篇<br />
+第3章　网络爬虫实现原理与实现技术 15<br />
+3.1　网络爬虫实现原理详解 15<br />
+3.2　爬行策略 17<br />
+3.3　网页更新策略 18<br />
+3.4　网页分析算法 20<br />
+3.5　身份识别 21<br />
+3.6　网络爬虫实现技术 21<br />
+3.7　实例——metaseeker 22<br />
+3.8　小结 27<br />
+第4章　Urllib库与URLError异常处理 29<br />
+4.1　什么是Urllib库 29<br />
+4.2　快速使用Urllib爬取网页 30<br />
+4.3　浏览器的模拟——Headers属性 34<br />
+4.4　超时设置 37<br />
+4.5　HTTP协议请求实战 39<br />
+4.6　代理服务器的设置 44<br />
+4.7　DebugLog实战 45<br />
+4.8　异常处理神器——URLError实战 46<br />
+4.9　小结 51<br />
+第5章　正则表达式与Cookie的使用 52<br />
+5.1　什么是正则表达式 52<br />
+5.2　正则表达式基础知识 52<br />
+5.3　正则表达式常见函数 61<br />
+5.4　常见实例解析 64<br />
+5.5　什么是Cookie 66<br />
+5.6　Cookiejar实战精析 66<br />
+5.7　小结 71<br />
+第6章　手写Python爬虫 73<br />
+6.1　图片爬虫实战 73<br />
+6.2　链接爬虫实战 78<br />
+6.3　糗事百科爬虫实战 80<br />
+6.4　微信爬虫实战 82<br />
+6.5　什么是多线程爬虫 89<br />
+6.6　多线程爬虫实战 90<br />
+6.7　小结 98<br />
+第7章　学会使用Fiddler 99<br />
+7.1　什么是Fiddler 99<br />
+7.2　爬虫与Fiddler的关系 100<br />
+7.3　Fiddler的基本原理与基本界面 100<br />
+7.4　Fiddler捕获会话功能 102<br />
+7.5　使用QuickExec命令行 104<br />
+7.6　Fiddler断点功能 106<br />
+7.7　Fiddler会话查找功能 111<br />
+7.8　Fiddler的其他功能 111<br />
+7.9　小结 113<br />
+第8章　爬虫的浏览器伪装技术 114<br />
+8.1　什么是浏览器伪装技术 114<br />
+8.2　浏览器伪装技术准备工作 115<br />
+8.3　爬虫的浏览器伪装技术实战 117<br />
+8.4　小结 121<br />
+第9章　爬虫的定向爬取技术 122<br />
+9.1　什么是爬虫的定向爬取技术 122<br />
+9.2　定向爬取的相关步骤与策略 123<br />
+9.3　定向爬取实战 124<br />
+9.4　小结 130<br />
+第三篇　框架实现篇<br />
+第10章　了解Python爬虫框架 133<br />
+10.1　什么是Python爬虫框架 133<br />
+10.2　常见的Python爬虫框架 133<br />
+10.3　认识Scrapy框架 134<br />
+10.4　认识Crawley框架 135<br />
+10.5　认识Portia框架 136<br />
+10.6　认识newspaper框架 138<br />
+10.7　认识Python-goose框架 139<br />
+10.8　小结 140<br />
+第11章　爬虫利器——Scrapy安装与配置 141<br />
+11.1　在Windows7下安装及配置Scrapy实战详解 141<br />
+11.2　在Linux（Centos）下安装及配置Scrapy实战详解 147<br />
+11.3　在MAC下安装及配置Scrapy实战详解 158<br />
+11.4　小结 161<br />
+第12章　开启Scrapy爬虫项目之旅 162<br />
+12.1　认识Scrapy项目的目录结构 162<br />
+12.2　用Scrapy进行爬虫项目管理 163<br />
+12.3　常用工具命令 166<br />
+12.4　实战：Items的编写 181<br />
+12.5　实战：Spider的编写 183<br />
+12.6　XPath基础 187<br />
+12.7　Spider类参数传递 188<br />
+12.8　用XMLFeedSpider来分析XML源 191<br />
+12.9　学会使用CSVFeedSpider 197<br />
+12.10　Scrapy爬虫多开技能 200<br />
+12.11　避免被禁止 206<br />
+12.12　小结 212<br />
+第13章　Scrapy核心架构 214<br />
+13.1　初识Scrapy架构 214<br />
+13.2　常用的Scrapy组件详解 215<br />
+13.3　Scrapy工作流 217<br />
+13.4　小结 219<br />
+第14章　Scrapy中文输出与存储 220<br />
+14.1　Scrapy的中文输出 220<br />
+14.2　Scrapy的中文存储 223<br />
+14.3　输出中文到JSON文件 225<br />
+14.4　小结 230<br />
+第15章　编写自动爬取网页的爬虫 231<br />
+15.1　实战：items的编写 231<br />
+15.2　实战：pipelines的编写 233<br />
+15.3　实战：settings的编写 234<br />
+15.4　自动爬虫编写实战 234<br />
+15.5　调试与运行 239<br />
+15.6　小结 242<br />
+第16章　CrawlSpider 243<br />
+16.1　初识CrawlSpider 243<br />
+16.2　链接提取器 244<br />
+16.3　实战：CrawlSpider实例 245<br />
+16.4　小结 249<br />
+第17章　Scrapy高级应用 250<br />
+17.1　如何在Python3中操作数据库 250<br />
+17.2　爬取内容写进MySQL 254<br />
+17.3　小结 259<br />
+第四篇　项目实战篇<br />
+第18章　博客类爬虫项目 263<br />
+18.1　博客类爬虫项目功能分析 263<br />
+18.2　博客类爬虫项目实现思路 264<br />
+18.3　博客类爬虫项目编写实战 264<br />
+18.4　调试与运行 274<br />
+18.5　小结 275<br />
+第19章　图片类爬虫项目 276<br />
+19.1　图片类爬虫项目功能分析 276<br />
+19.2　图片类爬虫项目实现思路 277<br />
+19.3　图片类爬虫项目编写实战 277<br />
+19.4　调试与运行 281<br />
+19.5　小结 282<br />
+第20章　模拟登录爬虫项目 283<br />
+20.1　模拟登录爬虫项目功能分析 283<br />
+20.2　模拟登录爬虫项目实现思路 283<br />
+20.3　模拟登录爬虫项目编写实战 284<br />
+20.4　调试与运行 292<br />
+20.5　小结 294<br /></P>
+<p>&#8203;</P>
+<p>&#8203;</P>
+&#8203;&#8203;&#8203;&#8203;<br /><img src="http://simg.sinajs.cn/blog7style/images/special/1265.gif">&nbsp;]]></description>
+            <author>韦玮pig</author>
+            <comments>http://blog.sina.com.cn/s/blog_6050805d0102wr72.html#comment</comments>
+            <pubDate>Sun, 09 Apr 2017 23:36:19 +0800</pubDate>
+            <guid>http://blog.sina.com.cn/s/blog_6050805d0102wr72.html</guid>
+        </item>
+        <item>
+            <title>襄阳美</title>
+            <link>http://blog.sina.com.cn/s/blog_6050805d01016wxn.html</link>
+            <description><![CDATA[<div>襄阳美</DIV>
+<div>&nbsp;&nbsp; 韦玮</DIV>
+<div>夕照古城美，<br />
+汉江南北分。<br />
+风烟凝翠柳，<br />
+月色上青城。</DIV>
+<div>&nbsp;</DIV>
+<div>注：古城：襄阳城</DIV>
+<div>&nbsp; &nbsp; &nbsp;
+汉江：襄阳汉江</DIV>
+<div>&nbsp; &nbsp; &nbsp;
+青城：襄阳青城山</DIV><br /><img src="http://simg.sinajs.cn/blog7style/images/special/1265.gif">&nbsp;]]></description>
+            <author>韦玮pig</author>
+            <category>诗</category>
+            <comments>http://blog.sina.com.cn/s/blog_6050805d01016wxn.html#comment</comments>
+            <pubDate>Wed, 01 Aug 2012 11:38:17 +0800</pubDate>
+            <guid>http://blog.sina.com.cn/s/blog_6050805d01016wxn.html</guid>
+        </item>
+        <item>
+            <title>春至华夏</title>
+            <link>http://blog.sina.com.cn/s/blog_6050805d01014ak1.html</link>
+            <description><![CDATA[&nbsp;&nbsp; &nbsp;暗水踏春来，<br />
+　　舟行巴蜀川。<br />
+　　江陵千里翠，<br />
+　　四海一家圆。<br />
+　　<br />
+　　ps：圆：圆满、团圆，与家园的“园”谐音，表示华夏都是一个家园，团结的家园。并且，“四海一家圆”从外象上来说是四海的河水都是相通的，故而圆，而内在则是说四海的人们都是一家，一个家园的人。<br />
+
+　　暗水：潜藏不显露的水流。<br />
+　　川：川流、河流。<br /><img src="http://simg.sinajs.cn/blog7style/images/special/1265.gif">&nbsp;]]></description>
+            <author>韦玮pig</author>
+            <comments>http://blog.sina.com.cn/s/blog_6050805d01014ak1.html#comment</comments>
+            <pubDate>Wed, 06 Jun 2012 13:34:01 +0800</pubDate>
+            <guid>http://blog.sina.com.cn/s/blog_6050805d01014ak1.html</guid>
+        </item>
+        <item>
+            <title>思</title>
+            <link>http://blog.sina.com.cn/s/blog_6050805d010128nj.html</link>
+            <description><![CDATA[<span STYLE="color: rgb(68, 68, 68); font-family: 宋体; line-height: 26px; background-color: rgb(252, 246, 241);">
+&nbsp;对镜吟风雪，<br />
+&nbsp;诗成酒一杯。<br />
+&nbsp;兰亭明月宿，<br />
+&nbsp;卧雪踏香回。<br />
+　　<br />
+　　<br />
+　　ps：冬已去，春将过，夏已来，却依然怀念太原的那场已去很久却像昨天下的雪。也许天生就喜欢雪吧。以前从未见过雪，二零一一年太原的那场雪，依昔萦绕在昨天。</SPAN>
+<div><span STYLE="color: rgb(68, 68, 68); font-family: 宋体; line-height: 26px; background-color: rgb(252, 246, 241);">
+<br /></SPAN></DIV><br /><img src="http://simg.sinajs.cn/blog7style/images/special/1265.gif">&nbsp;]]></description>
+            <author>韦玮pig</author>
+            <comments>http://blog.sina.com.cn/s/blog_6050805d010128nj.html#comment</comments>
+            <pubDate>Wed, 02 May 2012 13:08:36 +0800</pubDate>
+            <guid>http://blog.sina.com.cn/s/blog_6050805d010128nj.html</guid>
+        </item>
+        <item>
+            <title>春影</title>
+            <link>http://blog.sina.com.cn/s/blog_6050805d010120sp.html</link>
+            <description><![CDATA[<p><strong><font FACE="仿宋">捉影待春梅，<br />
+庭前草自分。<br />
+汾河春钓静，<br />
+飞絮坐添春。</FONT></STRONG></P>
+<p><strong><font FACE="仿宋">&nbsp;&nbsp;&nbsp;
+--玮</FONT></STRONG></P><br /><img src="http://simg.sinajs.cn/blog7style/images/special/1265.gif">&nbsp;]]></description>
+            <author>韦玮pig</author>
+            <comments>http://blog.sina.com.cn/s/blog_6050805d010120sp.html#comment</comments>
+            <pubDate>Fri, 27 Apr 2012 12:55:29 +0800</pubDate>
+            <guid>http://blog.sina.com.cn/s/blog_6050805d010120sp.html</guid>
+        </item>
+        <item>
+            <title>春行</title>
+            <link>http://blog.sina.com.cn/s/blog_6050805d01011xpl.html</link>
+            <description><![CDATA[三月芳菲雨，<br />
+二花曲径行。<br />
+听风烟柳绿，<br />
+春意几清明。
+<div>&nbsp; &nbsp; &nbsp;
+--玮<br />
+<div><br /></DIV>
+<div><br /></DIV>
+<div>
+<div><span STYLE="font-family: 'lucida Grande', Verdana; line-height: 23px; background-color: rgb(255, 255, 255);">
+（注：</SPAN>二花：指山西省晋中市的二花沟；</DIV>
+<div>几：<font SIZE="2" STYLE="line-height: 22px;">（<span STYLE="color: rgb(39, 39, 39); font-family: 宋体, Arial; line-height: 24px; background-color: rgb(255, 253, 242);">上声　j&#464;，几多）；</SPAN></FONT></DIV>
+<div>行：<font SIZE="2" STYLE="line-height: 22px;"><span STYLE="color: rgb(39, 39, 39); font-family: 宋体, Arial; line-height: 24px; background-color: rgb(255, 253, 242);">（</SPAN><span STYLE="color: rgb(39, 39, 39); font-family: 宋体, Arial; line-height: 24px; background-color: rgb(255, 253, 242);">&nbsp;x&iacute;ng，行走）；</SPAN></FONT><span STYLE="line-height: 21px;">）</SPAN></DIV>
+<div><font COLOR="#272727" SIZE="2"><span STYLE="line-height: 19px;"><br /></SPAN></FONT></DIV>
+<div><font COLOR="#272727" FACE="宋体, Arial" SIZE="2"><span STYLE="line-height: 24px;"><br /></SPAN></FONT></DIV>
+</DIV>
+</DIV><br /><img src="http://simg.sinajs.cn/blog7style/images/special/1265.gif">&nbsp;]]></description>
+            <author>韦玮pig</author>
+            <comments>http://blog.sina.com.cn/s/blog_6050805d01011xpl.html#comment</comments>
+            <pubDate>Wed, 25 Apr 2012 20:47:19 +0800</pubDate>
+            <guid>http://blog.sina.com.cn/s/blog_6050805d01011xpl.html</guid>
+        </item>
+        <item>
+            <title>浅月</title>
+            <link>http://blog.sina.com.cn/s/blog_6050805d0100wc7n.html</link>
+            <description><![CDATA[<div STYLE="CoLor: #000000; FonT-siZe: 14px">
+<div>
+<div><span>夜暗烛光浅，</SPAN></DIV>
+<div><span>初寒雪未干。</SPAN></DIV>
+<div><span>珠心连似碧，</SPAN></DIV>
+<div><span>月隐又余年。</SPAN></DIV>
+<div>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--玮</SPAN></DIV>
+</DIV>
+</DIV>
+<p>&nbsp;</P><br /><img src="http://simg.sinajs.cn/blog7style/images/special/1265.gif">&nbsp;]]></description>
+            <author>韦玮pig</author>
+            <comments>http://blog.sina.com.cn/s/blog_6050805d0100wc7n.html#comment</comments>
+            <pubDate>Wed, 14 Dec 2011 13:49:26 +0800</pubDate>
+            <guid>http://blog.sina.com.cn/s/blog_6050805d0100wc7n.html</guid>
+        </item>
+        <item>
+            <title>寻</title>
+            <link>http://blog.sina.com.cn/s/blog_6050805d0100ufqy.html</link>
+            <description><![CDATA[<p>峰山侧影寻，</P>
+<p>古树寓林深。</P>
+<p>雾绕波微漾，</P>
+<p>鸾飞旭日沉。</P>
+<p>&nbsp;&nbsp;…玮《寻》</P>
+<p>&nbsp;</P>
+<p>&nbsp;</P>
+&nbsp;<br /><img src="http://simg.sinajs.cn/blog7style/images/special/1265.gif">&nbsp;]]></description>
+            <author>韦玮pig</author>
+            <comments>http://blog.sina.com.cn/s/blog_6050805d0100ufqy.html#comment</comments>
+            <pubDate>Fri, 28 Oct 2011 22:53:58 +0800</pubDate>
+            <guid>http://blog.sina.com.cn/s/blog_6050805d0100ufqy.html</guid>
+        </item>
+        <item>
+            <title>红梅</title>
+            <link>http://blog.sina.com.cn/s/blog_6050805d0100u2o1.html</link>
+            <description><![CDATA[<p>晓透山微露，<br />
+枝红蕴琴音。<br />
+棋行車马处，<br />
+漫雪覆红梅。</P>
+<p>...玮《红梅》</P><br /><img src="http://simg.sinajs.cn/blog7style/images/special/1265.gif">&nbsp;]]></description>
+            <author>韦玮pig</author>
+            <comments>http://blog.sina.com.cn/s/blog_6050805d0100u2o1.html#comment</comments>
+            <pubDate>Wed, 12 Oct 2011 21:22:22 +0800</pubDate>
+            <guid>http://blog.sina.com.cn/s/blog_6050805d0100u2o1.html</guid>
+        </item>
+        <item>
+            <title>残夜</title>
+            <link>http://blog.sina.com.cn/s/blog_6050805d0100u1ao.html</link>
+            <description><![CDATA[<p>半空残照烟雨斜，<br />
+暮云低下入人家。<br />
+相逢无路难相会，<br />
+客是他乡夜伴鸦。<br />
+…玮《残夜》<br />
+(斜作韵脚读xia》</P><br /><img src="http://simg.sinajs.cn/blog7style/images/special/1265.gif">&nbsp;]]></description>
+            <author>韦玮pig</author>
+            <comments>http://blog.sina.com.cn/s/blog_6050805d0100u1ao.html#comment</comments>
+            <pubDate>Mon, 10 Oct 2011 22:40:13 +0800</pubDate>
+            <guid>http://blog.sina.com.cn/s/blog_6050805d0100u1ao.html</guid>
+        </item>
+    </channel>
+</rss>

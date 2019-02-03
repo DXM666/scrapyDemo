@@ -1,0 +1,17 @@
+Date: Sat, 08 Dec 2018 02:14:37 GMT
+Content-Type: text/html; charset=utf-8
+Server: Tengine
+X-Frame-Options: ALLOW-FROM http://dig.chouti.com http://k.21cn.com/
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jianshu.com *.jianshu.io api.geetest.com static.geetest.com dn-staticdown.qbox.me zz.bdstatic.com *.google-analytics.com hm.baidu.com push.zhanzhang.baidu.com res.wx.qq.com qzonestyle.gtimg.cn as.alipayobjects.com nbrecsys.4paradigm.com shared.ydstatic.com gorgon.youdao.com ;style-src 'self' 'unsafe-inline' *.jianshu.com *.jianshu.io api.geetest.com static.geetest.com shared.ydstatic.com ;frame-ancestors 'self' dig.chouti.com k.21cn.com ;
+Etag: W/"556d2b16f70a1c69817736cd4dbdb4ef"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: signin_redirect=https%3A%2F%2Fwww.jianshu.com%2Fp%2F055539b21441; path=/
+Set-Cookie: locale=zh-CN; path=/
+Set-Cookie: _m7e_session=ee37452324e2c65a26e1aa007253da3a; path=/; expires=Sat, 08 Dec 2018 08:14:37 -0000; secure; HttpOnly
+X-Request-Id: 5942358d-2f38-498f-8670-2fa660b3da70
+X-Runtime: 0.259526
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Encoding: gzip
+X-Via: 1.1 PSzjtzsx2yd188:3 (Cdn Cache Server V2.0), 1.1 VMtwzhdxbs141:4 (Cdn Cache Server V2.0)
